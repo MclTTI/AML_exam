@@ -1,5 +1,5 @@
 # AML_exam
-Repo for the AML exam material
+Repo for the AML exam material.
 
 Source of the original code https://github.com/eric-moreno/Anomaly-Detection-Autoencoder
 
